@@ -220,17 +220,17 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=psrajoria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psrajoria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=psrajoria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=psrajoria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=psrajoria&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=psrajoria&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psrajoria&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psrajoria&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
 </div>
 
 ---
