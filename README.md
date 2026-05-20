@@ -257,8 +257,8 @@ me.say_hi()
 
 <div align="center">
 
-### 💡 *"In God we trust. All others must bring data."*
-#### — W. Edwards Deming
+### 💡 *"Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self."*
+#### — Bhagavad Gita: Chapter 6, Verse 5
 
 <br>
 
